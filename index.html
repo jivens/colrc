@@ -1,0 +1,21 @@
+<HTML>
+<SCRIPT language="JavaScript"><!--
+function check() {
+    // Prompt user for the password ...
+    pwd = prompt('Enter password before continuing','');
+    // ... then set the browser location. (change the line below this one!)
+    location.href = 'http://academic.uprm.edu/~sbischoff/COLRC/' + escape(pwd) + '.php';
+}
+// -->
+</SCRIPT>
+<HEAD>
+<TITLE>Enter Password</TITLE>
+</HEAD>
+<BODY>
+<DIV align="center">You must have a password to enter this site!<P>
+    <FORM>
+        <INPUT type="Button" onClick="check()" value="Enter Site">
+    </FORM>
+</DIV>
+</BODY>
+</HTML>
