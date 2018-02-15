@@ -2,7 +2,7 @@
 <html>
 <h3>About this site</h3>
 
-hello
+hello...
 
 <p>This resource contains the <a href="./dictionary">Coeur d'Alene Root Dictionary</a> (<a href="http://meltr.org/Publications/" target="_blank">Lyon and Greene-Wood 2007</a>) with nearly 1,400 roots and about 7690 "word" forms, 
 Reichard's 1939 <a href="./stem_list">Stem List</a> with some 1,300 stems, a list of roughly <a href="./affix_list">200 affixes</a>, and over 1,200 pages of Coeur d'Alene <a href="./texts">texts</a> (copies of <a href=http://anthropology.usf.edu/women/reichard/reichard.html target="_blank">Gladys Reichard's</a> 1927-1929 field notes and typed manuscripts) and English translations from <a href="http://archive.org/stream/analysisofcoeurd41reic#page/n5/mode/2up" target="_blank">Reichard 1947</a>. Resources to help with <a href="./spelling">spelling and pronunciation</a> of Coeur d'Alene include lists of the consonant and vowel phonemes of Coeur d'Alene, a comparison of the three different orthographies most commonly used to write Coeur d'Alene (Nicodemus, Reichard, and Salishan), and a guide to pronunciation.  A <a  href="./bibliography">working bibliography</a> is also included, and will be expanded soon.</p>
